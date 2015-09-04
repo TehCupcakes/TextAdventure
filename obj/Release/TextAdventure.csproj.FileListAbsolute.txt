@@ -1,0 +1,6 @@
+H:\Projects\TextAdventure\bin\Release\TextAdventure.exe.config
+H:\Projects\TextAdventure\bin\Release\TextAdventure.exe
+H:\Projects\TextAdventure\bin\Release\TextAdventure.pdb
+H:\Projects\TextAdventure\obj\Release\TextAdventure.csprojResolveAssemblyReference.cache
+H:\Projects\TextAdventure\obj\Release\TextAdventure.exe
+H:\Projects\TextAdventure\obj\Release\TextAdventure.pdb

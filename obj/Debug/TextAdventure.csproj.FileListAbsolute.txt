@@ -1,0 +1,12 @@
+C:\0 - TFS\ECI\Developer Sandbox\Michael K\Projects\TextAdventure\bin\Debug\TextAdventure.exe.config
+C:\0 - TFS\ECI\Developer Sandbox\Michael K\Projects\TextAdventure\bin\Debug\TextAdventure.exe
+C:\0 - TFS\ECI\Developer Sandbox\Michael K\Projects\TextAdventure\bin\Debug\TextAdventure.pdb
+C:\0 - TFS\ECI\Developer Sandbox\Michael K\Projects\TextAdventure\obj\Debug\TextAdventure.exe
+C:\0 - TFS\ECI\Developer Sandbox\Michael K\Projects\TextAdventure\obj\Debug\TextAdventure.pdb
+C:\0 - TFS\ECI\Developer Sandbox\Michael K\Projects\TextAdventure\obj\Debug\TextAdventure.csprojResolveAssemblyReference.cache
+H:\Projects\TextAdventure\bin\Debug\TextAdventure.exe.config
+H:\Projects\TextAdventure\obj\Debug\TextAdventure.exe
+H:\Projects\TextAdventure\obj\Debug\TextAdventure.pdb
+H:\Projects\TextAdventure\obj\Debug\TextAdventure.csprojResolveAssemblyReference.cache
+H:\Projects\TextAdventure\bin\Debug\TextAdventure.exe
+H:\Projects\TextAdventure\bin\Debug\TextAdventure.pdb
